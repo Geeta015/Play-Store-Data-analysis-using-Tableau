@@ -1,4 +1,4 @@
-# **Transforming (Play Store app Review Analysis) EDA Projects to Dashboards**
+# **Transforming (Play Store app Review Analysis) EDA Project to Dashboards**
 **Problem Statement:** To improve the general quality and performance of the app in the marketplace and to facilitate data-driven decision-making, exploratory data analysis (EDA) is crucial for comprehending, analyzing, and drawing insights from Play Store data.
 The aim of this experiment is to leverage Tableau's visual analytics capabilities to uncover and enhance the understanding of client wants and aid product developers in popularizing their product.
 

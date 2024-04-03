@@ -1,6 +1,14 @@
 # **Transforming (Play Store app Review Analysis) EDA Project to Dashboards**
-**Problem Statement:** To improve the general quality and performance of the app in the marketplace and to facilitate data-driven decision-making, exploratory data analysis (EDA) is crucial for comprehending, analyzing, and drawing insights from Play Store data.
-The aim of this experiment is to leverage Tableau's visual analytics capabilities to uncover and enhance the understanding of client wants and aid product developers in popularizing their product.
+To improve the general quality and performance of the app in the marketplace and to facilitate data-driven decision-making, exploratory data analysis (EDA) is crucial for comprehending, analyzing, and drawing insights from Play Store data.
+
+**Problem Statement:** 
+By analyzing and visualizing these crucial points, the experiment seeks to use Tableau's visual analytics capabilities to better understand customer needs and assist product creators in popularizing their creations.
+1. Which app categories comprise the greatest quantity of apps?
+2. Which app categories get more reviews than others?
+3. What percentage of all apps are free?
+4. What age group has rated the apps the most?
+5. Top five categories determined by total income
+6. Category-based Sentiment Analysis
 
 Dataset Selection:
 For my analysis, I'll utilize the following two datasets: Play Store data and User Reviews. 
@@ -30,10 +38,6 @@ Sentiment: Emotion like ‘Positive’, ‘Negative’, or ‘Neutral’.
 Sentiment_Polarity: Polarity of the review (ranges [-1,1], where 1 means ‘Positive statement’ and -1 means a ‘Negative statement’).
 Sentiment_Subjectivity: How close a reviewers opinion is to the opinion of the general public. Its range is[0,1].
 
-**Problem Areas to Explore:**
-Enhancing user happiness, promoting business growth, and optimizing the app's overall performance in the marketplace are the ultimate objectives of investigating, evaluating and Visualising app engagement data.
-
-
 **Here's a concise summary of the data analysis and dashboard creation process:**
 1. Data Cleaning: I have to clean the data to remove missing value and duplicate values such as duplicate reviews.
 2. Data Preprocessing: I have to convert all variables into appropriate datatypes and exclude any undesired values from the numerical columns, such as "$" from the price and "+" and "," from the installs. I have to convert all the numbers in MB because the size column contains both KB and MB values.
@@ -44,7 +48,7 @@ Enhancing user happiness, promoting business growth, and optimizing the app's ov
 Dashboard provides information about app popularity and user interactions.It examines the feelings and thoughts that users have concerning the apps and draws attention to the revenue trends and financial performance of apps.
 
 **Tableau Story**
-This effort culminates with a coherent Tableau narrative that facilitates easy navigation between the many data viewpoints of interaction, sentiment, and revenue for users in a seamless and user-friendly manner.
+This work concludes in a cohesive Tableau narrative that makes it simple and intuitive for users to navigate between the many data perspectives of engagement, sentiment, and revenue.
 
 **Conclusion**
 The final Tableau narrative style provides a thorough grasp of the complex nature of the Play Store data, enabling more thoughtful deliberation.

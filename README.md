@@ -53,7 +53,7 @@ This work concludes in a cohesive Tableau narrative that makes it simple and int
 **Conclusion**
 The final Tableau narrative style provides a thorough grasp of the complex nature of the Play Store data, enabling more thoughtful deliberation.
 
-[Tableau Dashboard Link](https://prod-apnortheast-a.online.tableau.com/#/site/geetaarora687f1f3c5eb2/workbooks/1632196?:origin=card_share_link)
+[Tableau Dashboard Link](https://public.tableau.com/views/Analysisstoryofplaystoredata/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 
